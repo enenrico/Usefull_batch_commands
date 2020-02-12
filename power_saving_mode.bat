@@ -1,5 +1,5 @@
 rem---------------------------------------------------------------------
-rem Datei power_saving_mode.bat
+rem file power_saving_mode.bat
 rem set the monitor timout at 5h 
 
 rem---------------------------------------------------------------------
