@@ -1,0 +1,13 @@
+rem
+rem---------------------------------------------------------------------
+rem file install_without_admin_rights.bat
+
+rem---------------------------------------------------------------------
+rem 
+set __COMPAT_LAYER=RunAsInvoker
+start rem "Name of the exe file (without the exe)" 
+
+rem here an example
+
+set __COMPAT_LAYER=RunAsInvoker
+start SteamSetup
